@@ -6,3 +6,8 @@ header{
 .title{
     text-align: center;
 }
+.price_title{
+    font-size: 35px;
+    display: block;
+    margin: 0 auto;
+}
